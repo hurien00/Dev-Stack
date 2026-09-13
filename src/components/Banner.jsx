@@ -16,9 +16,9 @@ const Banner = () => {
 
           {/* Description */}
           <p className="mt-4 text-gray-5xl text-base sm:text-lg text-slate-500 max-w-xl mx-auto lg:mx-0 leading-relaxed">
-            Explore frontend, backend, database, and tooling options, compare
-            them side by side, and put together the stack that fits your next
-            project.
+            Explore frontend, backend, database, and tooling options, <br/>
+            compare them side by side, and put together the stack that fits your <br/> 
+            next project.
           </p>
 
           {/* Buttons */}
