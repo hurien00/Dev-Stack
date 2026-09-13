@@ -1,4 +1,5 @@
- Project Name= Dev Stack
+ ## Project Name  
+ **Dev Stack**
 
  Project Description:Dev Stack is an interactive web platform that helps developers discover and understand different technologies used in modern web development. Users can explore technologies, compare their features, and create a personalized tech stack based on their project needs.
 
