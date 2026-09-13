@@ -5,7 +5,15 @@ const Nav = () => {
   
   const navLinks = (
   <>
-    
+    <li>
+      <a
+        href="#home"
+        className="text-gray-600 hover:text-[#E91E63]"
+      >
+        Home
+      </a>
+    </li>
+
     <li>
       <a
         href="#technologies"
